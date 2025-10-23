@@ -14,7 +14,6 @@ The top four cards provide immediate market status.
 | KPI | DAX Formula Utility | Strategic Utility |
 | :--- | :--- | :--- |
 | **Average of price** ($6.35K) | `AVERAGE('Diamond Data'[Price])` | Sets the baseline expectation for transaction value. |
-| **Max of price** ($19K) | `MAXX('Diamond Data', 'Diamond Data'[Price])` | Identifies the highest price point, crucial for outlier examination in the scatter plot. |
 
 ### B. Average Price by Clarity (Bar Chart)
 **Implementation:**
